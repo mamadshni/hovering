@@ -7,6 +7,11 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 Run `ng generate component component-name --project hovering` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project hovering`.
 > Note: Don't forget to add `--project hovering` or else it will be added to the default project in your `angular.json` file. 
 
+
+## Install (NPM)
+
+> npm i hovering
+
 ## Build
 
 Run `ng build hovering` to build the project. The build artifacts will be stored in the `dist/` directory.
@@ -22,3 +27,5 @@ Run `ng test hovering` to execute the unit tests via [Karma](https://karma-runne
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
